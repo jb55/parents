@@ -17,4 +17,3 @@ describe('parents', function(){
     assert(pars[0].tagName === 'BODY', pars[0].tagName);
   });
 });
-
